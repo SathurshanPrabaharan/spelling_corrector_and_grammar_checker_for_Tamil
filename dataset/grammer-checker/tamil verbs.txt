@@ -1,0 +1,107 @@
+நட (Nada) - Walk
+ஓடு (Odu) - Run
+குதிக்க (Kudhikka) - Jump
+பற (Para) - Fly
+ஏறு (Eru) - Climb
+பேசு (Pesu) - Speak
+எழுது (Eluthu) - Write
+படி (Padi) - Read
+கேள் (Kel) - Listen
+பார் (Par) - See
+அழ (Aza) - Cry
+சிரி (Siri) - Laugh
+சமை (Samai) - Cook
+சாப்பிடு (Sappid) - Eat
+குடி (Kudi) - Drink
+தூங்கு (Thoongu) - Sleep
+எழுந்திரு (Ezhundh iru) - Wake up
+உட்கார் (Utkaar) - Sit
+*****************************
+----TESTED ABOVE-------
+***************************
+
+
+
+
+நில் (Nil) - Stand
+ஓய்வு (Oivu) - Rest
+திற (Thira) - Open
+மூடு (Moodu) - Close
+கொடு (Kodu) - Give
+வாங்கு (Vaangu) - Take
+உடை (Udai) - Break
+சேரு (Seru) - Join
+நினை (Ninai) - Think
+நம்பு (Nambu) - Believe
+உண்ண (Unna) - Consume
+புகு (Pugu) - Enter
+வெளியில் போ (Veliyil Po) - Exit
+தேடு (Thedu) - Search
+காணு (Kaanu) - Discover
+அனுப்பு (Anuppu) - Send
+வாங்கு (Vangu) - Buy
+விற்க (Virka) - Sell
+கொல்ல (Kolla) - Kill
+உயிருடன் இரு (Uyirudan iru) - Live
+அடிக்க (Adikka) - Hit
+பிடிக்க (Pidikka) - Catch
+தூக்கு (Thookku) - Lift
+தூய்மையாக்கு (Thooymaiyakku) - Clean
+கழுவு (Kazhuvu) - Wash
+வர (Vara) - Come
+போ (Po) - Go
+க்கு வரவேறு (Varaveru) - Welcome
+விரும்பு (Virumbu) - Want
+நேசிக்க (Nesikka) - Love
+வெறுக்க (Verukka) - Hate
+பின்தொடர் (Pinthodar) - Follow
+ஓர் இடத்தில் இரு (Oru idathil iru) - Stay
+பிடி (Pidi) - Hold
+உணர் (Unar) - Feel
+பழகு (Pazhagu) - Practice
+பழம் பறி (Pazham Pari) - Pluck
+அழகு (Azhagu) - Decorate
+படுக்க (Padukka) - Lie down
+நடிக்க (Nadikka) - Act
+விளையாடு (Vilayaadu) - Play
+பயணம் செய்ய (Payanam Seyya) - Travel
+சுவாசிக்க (Suvaasikka) - Breathe
+கோபப்படு (Kobappadu) - Get angry
+மகிழ்ச்சி அடை (Magizhchi Adai) - Be happy
+புன்னகை செய் (Punnagai Sei) - Smile
+நினைவு கூர் (Ninaivu Koor) - Remember
+மற (Mara) - Forget
+உதவி செய் (Udhavi Sei) - Help
+காப்பாற்று (Kaapaatru) - Save
+முடி (Mudi) - Finish
+தொடங்கு (Thodangu) - Start
+சோதிக்க (Sodhikka) - Test
+கேள்வி கேள் (Kelvi Kel) - Question
+பதில் சொல்லு (Pathil Sollu) - Answer
+கவனிக்க (Kavanikka) - Observe
+கற்றுக்கொள் (Kattrukkol) - Learn
+கற்பிக்க (Karpikka) - Teach
+ஆடு (Aadu) - Dance
+பாட்டு பாடு (Paattu Paadu) - Sing
+முழக்கம் கொடு (Muzhakkam Kodu) - Shout
+குரல் கொடு (Kural Kodu) - Speak out
+பணம் செலுத்து (Panam Seluthu) - Pay
+திரும்பு (Thirumbu) - Return
+தொடு (Thodu) - Touch
+தூரவேறு (Thooraveru) - Push away
+இழு (Izu) - Pull
+தொங்கு (Thongu) - Hang
+சரி செய் (Sari Sei) - Fix
+ஒப்புக்கொள் (Oppukkol) - Accept
+மறுக்க (Marukka) - Refuse
+பயந்து போ (Bayandhu Po) - Fear
+தைரியமாக இரு (Thairiyamaga Iru) - Be brave
+நகை வாங்கு (Nagai Vaangu) - Wear jewelry
+வீசு (Veesu) - Throw
+பிடிக்க வேண்டாம் (Pidikka Vendam) - Dislike
+சுமந்து செல (Sumandhu Sela) - Carry
+பகிர் (Pagir) - Share
+கட்டு (Kattu) - Build
+வெல் (Vel) - Win
+தோல் (Thol) - Lose
+உட்கொள்ள (Utkkolla) - Absorb
